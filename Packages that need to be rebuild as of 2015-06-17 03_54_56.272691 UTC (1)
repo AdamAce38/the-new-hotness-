@@ -1,0 +1,35 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f23-need-rebuild.html
+Subject: Packages that need to be rebuild as of 2015-06-17 03:54:56.272691 UTC
+Date: Sun, 4 Feb 2024 00:48:19 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--mTJ22l42cESCwpUYs1mRtm72PZVImZBv6hQSyzelcH----"
+
+
+------MultipartBoundary--mTJ22l42cESCwpUYs1mRtm72PZVImZBv6hQSyzelcH----
+Content-Type: text/html
+Content-ID: <frame-D7D1C7450C0050709AE9666E388CE7BB@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f23-need-rebuild.html
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-18aeb772-4d76-482a-b2ee-ed6822f50f7e@mhtml.blink" />
+<title>Packages that need to be rebuild as of 2015-06-17 03:54:56.272691 UTC</title>
+
+</head><body>
+<p>Last run: 2015-06-17 03:54:56.272691 UTC</p>
+<p>Included build tags: ['f23', 'f23-rebuild', 'f23-candidate', 'rawhide']</p>
+<p>Included Koji instances:<br>
+http://koji.fedoraproject.org/kojihub<br>
+http://arm.koji.fedoraproject.org/kojihub<br>
+</p></body></html>
+------MultipartBoundary--mTJ22l42cESCwpUYs1mRtm72PZVImZBv6hQSyzelcH----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-18aeb772-4d76-482a-b2ee-ed6822f50f7e@mhtml.blink
+
+@charset "utf-8";
+
+dt { margin-top: 1em; }
+------MultipartBoundary--mTJ22l42cESCwpUYs1mRtm72PZVImZBv6hQSyzelcH------

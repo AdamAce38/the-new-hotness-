@@ -1,0 +1,42 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f27-need-rebuild.html
+Subject: Packages that need to be rebuild as of 2017-08-20 05:57:01.784724 UTC
+Date: Sun, 4 Feb 2024 00:47:58 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ETILPbisZLmWijKLDJXHIO6YI8CvZfgLrKssTHBaVG----"
+
+
+------MultipartBoundary--ETILPbisZLmWijKLDJXHIO6YI8CvZfgLrKssTHBaVG----
+Content-Type: text/html
+Content-ID: <frame-765335192A7887E487BEF1CD2084729D@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f27-need-rebuild.html
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-ba0a46e2-5cc5-4f21-9fc0-62190a203d4a@mhtml.blink" />
+<title>Packages that need to be rebuild as of 2017-08-20 05:57:01.784724 UTC</title>
+
+</head><body>
+<p>Last run: 2017-08-20 05:57:01.784724 UTC</p>
+<p>Included build tags: ['f27', 'f27-rebuild', 'f27-candidate', 'rawhide']</p>
+<p>Included Koji instances:<br>
+https://koji.fedoraproject.org/kojihub<br>
+</p>
+<p>0 packages need rebuilding:</p><hr>
+<dl>
+<p>The script that generated this page can be found at 
+<a href="https://pagure.io/releng/blob/master/f/scripts">https://pagure.io/releng/blob/master/f/scripts</a>.
+There you can also report bugs and RFEs.</p>
+
+
+</dl></body></html>
+------MultipartBoundary--ETILPbisZLmWijKLDJXHIO6YI8CvZfgLrKssTHBaVG----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-ba0a46e2-5cc5-4f21-9fc0-62190a203d4a@mhtml.blink
+
+@charset "utf-8";
+
+dt { margin-top: 1em; }
+------MultipartBoundary--ETILPbisZLmWijKLDJXHIO6YI8CvZfgLrKssTHBaVG------

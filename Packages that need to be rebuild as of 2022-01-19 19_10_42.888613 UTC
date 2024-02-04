@@ -1,0 +1,41 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f26-need-rebuild.html
+Subject: Packages that need to be rebuild as of 2022-01-19 19:10:42.888613 UTC
+Date: Sun, 4 Feb 2024 00:48:08 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--5293jUzAsQB6IsfUm5sbsLbwmQSNeSIGGK1novgwX3----"
+
+
+------MultipartBoundary--5293jUzAsQB6IsfUm5sbsLbwmQSNeSIGGK1novgwX3----
+Content-Type: text/html
+Content-ID: <frame-235A174140448F1B9C46BBDA566077BF@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f26-need-rebuild.html
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-1656a346-e574-4c0b-a210-ac31ec2df5a6@mhtml.blink" />
+<title>Packages that need to be rebuild as of 2022-01-19 19:10:42.888613 UTC</title>
+
+</head><body>
+<p>Last run: 2022-01-19 19:10:42.888613 UTC</p>
+<p>Included build tags: ['f36', 'f36-rebuild', 'f36-candidate', 'rawhide']</p>
+<p>Included Koji instances:<br>
+</p>
+<p>0 packages need rebuilding:</p><hr>
+<dl>
+<p>The script that generated this page can be found at 
+<a href="https://pagure.io/releng/blob/main/f/scripts">https://pagure.io/releng/blob/main/f/scripts</a>.
+There you can also report bugs and RFEs.</p>
+
+
+</dl></body></html>
+------MultipartBoundary--5293jUzAsQB6IsfUm5sbsLbwmQSNeSIGGK1novgwX3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-1656a346-e574-4c0b-a210-ac31ec2df5a6@mhtml.blink
+
+@charset "utf-8";
+
+dt { margin-top: 1em; }
+------MultipartBoundary--5293jUzAsQB6IsfUm5sbsLbwmQSNeSIGGK1novgwX3------

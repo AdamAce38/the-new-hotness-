@@ -1,0 +1,45 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f27-failures.html
+Subject: Packages that failed to build as of 2017-09-05 19:11:16.148690 UTC
+Date: Sun, 4 Feb 2024 00:48:00 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--7PomS7yl7l6ncafgJbFWvpjYr0JfatTVFjSCXYOGUk----"
+
+
+------MultipartBoundary--7PomS7yl7l6ncafgJbFWvpjYr0JfatTVFjSCXYOGUk----
+Content-Type: text/html
+Content-ID: <frame-2C25D4A96A7A9B1769F7EDFB483A3F0C@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f27-failures.html
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-b8462e24-c8a4-4161-8824-4ab470ae5768@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-a8386b4a-7798-4317-9e5f-1062775cac3c@mhtml.blink" />
+<title>Packages that failed to build as of 2017-09-05 19:11:16.148690 UTC</title>
+
+</head><body>
+<p>Last run: 2017-09-05 19:11:16.148690 UTC</p>
+0 failed builds:<p>
+</p><dl>
+
+</dl>
+
+
+</body></html>
+------MultipartBoundary--7PomS7yl7l6ncafgJbFWvpjYr0JfatTVFjSCXYOGUk----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-b8462e24-c8a4-4161-8824-4ab470ae5768@mhtml.blink
+
+@charset "utf-8";
+
+dt { margin-top: 1em; }
+------MultipartBoundary--7PomS7yl7l6ncafgJbFWvpjYr0JfatTVFjSCXYOGUk----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-a8386b4a-7798-4317-9e5f-1062775cac3c@mhtml.blink
+
+@charset "utf-8";
+
+dt { margin-top: 1em; }
+------MultipartBoundary--7PomS7yl7l6ncafgJbFWvpjYr0JfatTVFjSCXYOGUk------

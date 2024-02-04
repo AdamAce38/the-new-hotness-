@@ -1,0 +1,42 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f39-need-rebuild.html
+Subject: Packages that need to be rebuild as of 2023-08-09 04:59:46.908404 UTC
+Date: Sun, 4 Feb 2024 00:46:46 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--JVEvFsJ3LBsmIq4oIb7eYgkoDGkBDJ7Zl7CdnsYYdL----"
+
+
+------MultipartBoundary--JVEvFsJ3LBsmIq4oIb7eYgkoDGkBDJ7Zl7CdnsYYdL----
+Content-Type: text/html
+Content-ID: <frame-F6316662182AC14B47AD5365E7ED98F2@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f39-need-rebuild.html
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-7bfb7ba2-9aa0-4550-91a8-7a7f26ecadb1@mhtml.blink" />
+<title>Packages that need to be rebuild as of 2023-08-09 04:59:46.908404 UTC</title>
+
+</head><body>
+<p>Last run: 2023-08-09 04:59:46.908404 UTC</p>
+<p>Included build tags: ['f39', 'f39-rebuild', 'f39-candidate', 'rawhide']</p>
+<p>Included Koji instances:<br>
+https://koji.fedoraproject.org/kojihub<br>
+</p>
+<p>0 packages need rebuilding:</p><hr>
+<dl>
+<p>The script that generated this page can be found at 
+<a href="https://pagure.io/releng/blob/main/f/scripts">https://pagure.io/releng/blob/main/f/scripts</a>.
+There you can also report bugs and RFEs.</p>
+
+
+</dl></body></html>
+------MultipartBoundary--JVEvFsJ3LBsmIq4oIb7eYgkoDGkBDJ7Zl7CdnsYYdL----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-7bfb7ba2-9aa0-4550-91a8-7a7f26ecadb1@mhtml.blink
+
+@charset "utf-8";
+
+dt { margin-top: 1em; }
+------MultipartBoundary--JVEvFsJ3LBsmIq4oIb7eYgkoDGkBDJ7Zl7CdnsYYdL------

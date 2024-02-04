@@ -1,0 +1,79 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f30-failures.html
+Subject: Packages that failed to build as of 2019-04-10 23:31:40.368119 UTC
+Date: Sun, 4 Feb 2024 00:47:44 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ZUqH6nOTqH81Wn2U3bqULLqY6pIzfsAvTph5fH0ZQP----"
+
+
+------MultipartBoundary--ZUqH6nOTqH81Wn2U3bqULLqY6pIzfsAvTph5fH0ZQP----
+Content-Type: text/html
+Content-ID: <frame-9BFC4AAD09C84D204F5271EAEEAC8FFF@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://koji.fedoraproject.org/repos/eln-build/latest/aarch64/toplink/mass-rebuild/f30-failures.html
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-bce89168-11ac-4761-a96b-174f460ba850@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-f872a4cc-83ac-4ce6-b34f-d8c449b80da2@mhtml.blink" />
+<title>Packages that failed to build as of 2019-04-10 23:31:40.368119 UTC</title>
+
+</head><body>
+<p>Last run: 2019-04-10 23:31:40.368119 UTC</p>
+11 failed builds:<p>
+</p><dl>
+
+<dt>aeperezt (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32381520">eruby</a></dd>
+<dt>bpepple (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32502861">telepathy-glib</a></dd>
+<dt>fab (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32456218">python-impacket</a></dd>
+<dt>johnp (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32502861">telepathy-glib</a></dd>
+<dt>jspaleta (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32367904">bamf</a></dd>
+<dt>kalev (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32414876">mmapper</a></dd>
+<dt>lbazan (2):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32381520">eruby</a></dd>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32414837">mk-files</a></dd>
+<dt>nucleo (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32411097">linphone</a></dd>
+<dt>qulogic (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32512499">xtl</a></dd>
+<dt>rebus (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32456218">python-impacket</a></dd>
+<dt>rmattes (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32382545">fawkes</a></dd>
+<dt>robyduck (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32414837">mk-files</a></dd>
+<dt>salimma (2):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32367904">bamf</a></dd>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32372428">cmdtest</a></dd>
+<dt>thofmann (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32382545">fawkes</a></dd>
+<dt>tieugene (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32403881">juffed</a></dd>
+<dt>timn (1):</dt>
+<dd><a href="https://koji.fedoraproject.org/koji/taskinfo?taskID=32382545">fawkes</a></dd>
+</dl>
+
+
+</body></html>
+------MultipartBoundary--ZUqH6nOTqH81Wn2U3bqULLqY6pIzfsAvTph5fH0ZQP----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-bce89168-11ac-4761-a96b-174f460ba850@mhtml.blink
+
+@charset "utf-8";
+
+dt { margin-top: 1em; }
+------MultipartBoundary--ZUqH6nOTqH81Wn2U3bqULLqY6pIzfsAvTph5fH0ZQP----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-f872a4cc-83ac-4ce6-b34f-d8c449b80da2@mhtml.blink
+
+@charset "utf-8";
+
+dt { margin-top: 1em; }
+------MultipartBoundary--ZUqH6nOTqH81Wn2U3bqULLqY6pIzfsAvTph5fH0ZQP------
